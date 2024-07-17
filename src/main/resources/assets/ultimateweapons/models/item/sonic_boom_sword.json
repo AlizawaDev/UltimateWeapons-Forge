@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "ultimateweapons:item/sonic_boom_sword"
+  }
+}
